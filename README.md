@@ -4,6 +4,10 @@
 ## Lab Overview
 This lab involves configuring multiple DHCP pools on **Router R2**, setting **R1** as a DHCP client and relay agent, and verifying DHCP IP address assignments for **PC1** and **PC2**. The goal is to gain hands-on experience with DHCP server, client, and relay configurations.
 
+
+<img src= "https://github.com/ro-drick/DHCP-Configuration/blob/main/dhcp.PNG">
+
+
 ## Lab Tasks
 
 ### Task 1: Configure DHCP Pools on R2
